@@ -232,12 +232,10 @@ footer{
 
 @media (min-width : 700px) and (max-width : 1500px){
     .sectionthird{
-        background-color: rgba(153, 255, 0, 0.202);
         height: 21rem;
         margin: auto;
     }
     .sectionsecond{
-        background-color: rgba(151, 255, 0, 0.08);
         height: 32rem;
         margin: auto;
     }
